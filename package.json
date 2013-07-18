@@ -12,5 +12,8 @@
     "type": "git",
     "url": "git://github.com/nick-thompson/wa-overdrive.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "web-audio": {
+    "type": "effect"
+  }
 }
