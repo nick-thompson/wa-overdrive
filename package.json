@@ -1,0 +1,16 @@
+{
+  "name": "wa-overdrive",
+  "description": "An overdrive distortion effect for the Web Audio API.",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "author": {
+    "name": "Nick Thompson",
+    "email": "ncthom91@gmail.com",
+    "url": "ncthompson.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nick-thompson/wa-overdrive.git"
+  },
+  "license": "MIT"
+}
